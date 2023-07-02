@@ -1,0 +1,2 @@
+Cartella dove salvare i file QLR da utilizzare come MODELLO di caricamento Layer in QGIS
+I file QLR in questa cartella DEVONO essere salvati con percorsi ASSOLUTI
