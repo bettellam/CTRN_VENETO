@@ -1,2 +1,0 @@
-File standard CTRN RVE VUOTI
-da utilizzare per creare i modelli di file QLR
