@@ -1,1 +1,3 @@
-
+Cartella dove salvare i file QLR da utilizzare come MODELLO di caricamento Layer geopackage in QGIS
+USARE i file geopackage ---> __STD_shape.gpkg
+I file QLR in questa cartella DEVONO essere salvati con percorsi ASSOLUTI EPSG:6707
