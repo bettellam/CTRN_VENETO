@@ -1,1 +1,1 @@
-Cartella per shape CTRN RVE GBO EPSG:3003
+Cartella per geopackage CTRN RVE GBO EPSG:3003
