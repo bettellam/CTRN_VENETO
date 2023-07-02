@@ -1,2 +1,3 @@
 Cartella dove salvare i file QLR da utilizzare come MODELLO di caricamento Layer in QGIS
-I file QLR in questa cartella DEVONO essere salvati con percorsi ASSOLUTI
+USARE i file shape contenuti nella cartella ---> __STD_shape
+I file QLR in questa cartella DEVONO essere salvati con percorsi ASSOLUTI EPSG:3003
