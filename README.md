@@ -1,7 +1,7 @@
 # CTRN_VENETO
 Vestizione cartografica in QGIS della Carta Tecnica Regionale Numerica della Regione del Veneto - 1:5.000 - 1:10.000
-[![Watch the video](https://github.com/bettellam/CTRN_VENETO/assets/23143342/085b0e41-857a-49e8-86d5-9f506e812e21)]<video width="640" height="480" autoplay>
-  <source src="https://github.com/bettellam/CTRN_VENETO/raw/main/gpkg_GBO_ETRF2000U32_r.mp4" type="video/mp4">Demo...</video>
+[![Watch the video](https://github.com/bettellam/CTRN_VENETO/assets/23143342/085b0e41-857a-49e8-86d5-9f506e812e21)<video width="640" height="480" autoplay>
+  <source src="https://github.com/bettellam/CTRN_VENETO/raw/main/gpkg_GBO_ETRF2000U32_r.mp4" type="video/mp4">Demo...</video>]
 
 ![image](https://github.com/bettellam/CTRN_VENETO/assets/23143342/0c193853-091f-41d3-84f9-60298266745a)
 ![image](https://github.com/bettellam/CTRN_VENETO/assets/23143342/95e50a68-958c-4e11-a133-c5a5c83c6203)
